@@ -42,6 +42,6 @@ fun Greeting(name: String, modifier: Modifier = Modifier) {
 @Composable
 fun GreetingPreview() {
     MycomposeTheme {
-        Greeting("Android Kotlin onta")
+        Greeting("Android Kotlin onta tuma'ninah ")
     }
 }
